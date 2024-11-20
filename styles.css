@@ -1,0 +1,20 @@
+h1{
+     text-align: center;
+     color: #047afc;
+     /*text-transform: uppercase;*/
+ }
+button {
+    background-color: #047afc;
+    padding: 8px;
+    color: white;
+    border: white;
+    border-radius: 10px;
+    width: 15%;
+}
+
+input {
+    border-radius: 15px;
+    width: 15%;
+    border: #047afc 2px solid;
+    padding: 8px;
+}
